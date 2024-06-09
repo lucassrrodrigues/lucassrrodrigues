@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Lucas 
 
-- 🎓 Estudando Análise e Desenvolvimento na Universidade de Sorocaba.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Universidade de Sorocaba-UNISO.
 - 🌱 Buscando novos conhecimentos e aprendizados.
 - ⚡ Focado para me tornar um desenvolvedor Full-Stack.
 
