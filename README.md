@@ -6,9 +6,9 @@
 
 <br>
 
-## Minhas Skills e Ferramentas
+## Minhas Habilidades e Ferramentas
 
-### Skills
+### Habilidades
 
 <div style="display: inline_block">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
